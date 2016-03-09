@@ -1,7 +1,7 @@
 name: HDR Photography
 favicon: null
-layout_spectrum: 0.5971459613647312
-typography_spectrum: 0.5797210696619004
+layout_spectrum: 1
+typography_spectrum: 0.11683
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.2423020072747022
-  lightness: 0.6056000913958997
-  saturation: 0.028614332899451256
-  rhythmicContrast: 0.9635784826241434
+    - '#ffffff'
+    - '#a6a800'
+    - '#6d300a'
+    - '#e75c05'
+    - '#bf0101'
+  brandStrength: 0.75
+  lightness: 0.5
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose: []
