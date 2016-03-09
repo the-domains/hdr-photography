@@ -1,7 +1,4 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+name: HDR Photography
 opengraph:
   image: null
   type: null
@@ -12,29 +9,32 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.7234157
+  saturation: 0.3818474
   brandStrength: 0.9607948
-  lightness: 1
+  lightness: 0.4484425
   brandColors:
-    - '#FFFFFF'
-    - '#9A9A9A'
-    - '#656565'
-    - '#659A03'
+    - '#000000'
+    - '#593F22'
     - '#CF65D8'
-  rhythmicContrast: 0.1992481
+    - '#FDFCFC'
+    - '#AAE142'
+  rhythmicContrast: 0.906015
 typography_spectrum: 0.04994628
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 favicon: null
-name: HDR Photography
+layout_spectrum: 1
