@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[HDR Photography]]></title>
         <description><![CDATA[HDR Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hdr-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 06:40:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 06:43:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hdr-photography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New Skin]]></title>
+            <description><![CDATA[<article><h1>New Skin</h1><p>Bark coming off form a Eucalyptus Tree on Mare Island</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3a27e2181af633dae37dfdc6fb848d9a06681a72.jpg"></article>]]></description>
+            <link>https://500px.com/photo/141189065/new-skin-by-lony-meyer</link>
+            <guid isPermaLink="false">042be49a-9f38-4e1d-918f-b055da99a15a</guid>
+            <pubDate>Wed, 09 Mar 2016 06:43:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Kviknes Hotel]]></title>
             <description><![CDATA[<article><h1>Kviknes Hotel</h1><p>Kviknes Hotel in Balestrand Norway.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8902c3dfc8fe12c39fe152c6d03835efc1502038.jpg"></article>]]></description>
