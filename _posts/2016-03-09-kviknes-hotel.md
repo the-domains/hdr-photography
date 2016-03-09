@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://500px.com/photo/141188681/kviknes-hotel-by-lony-meyer'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Kviknes Hotel in Balestrand Norway.
-datePublished: '2016-03-09T06:40:32.805Z'
-dateModified: '2016-03-09T06:40:11.425Z'
+datePublished: '2016-03-09T06:50:12.667Z'
+dateModified: '2016-03-09T06:48:54.374Z'
 author: []
 related: []
 app_links:
@@ -40,14 +39,15 @@ app_links:
     name: 500px
     id: com.fivehundredpx.viewer
 title: Kviknes Hotel
+sourcePath: _posts/2016-03-09-kviknes-hotel.md
+published: true
 authors: []
 publisher:
   name: 500px
   domain: 500px.com
   url: 'https://500px.com'
   favicon: 'https://assetcdn.500px.org/assets/favicon-7d8942fba5c5649f91a595d0fc749c83.ico'
-sourcePath: _posts/2016-03-09-kviknes-hotel.md
-published: true
+url: kviknes-hotel/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
