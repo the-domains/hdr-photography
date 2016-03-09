@@ -1,4 +1,7 @@
-layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -18,23 +21,20 @@ collections:
 purpose: []
 color:
   saturation: 0.7234157
-  brandStrength: 0.75
+  brandStrength: 0.9607948
   lightness: 1
   brandColors:
-    - '#080806'
-    - '#53515c'
-    - '#e79f00'
-    - '#004e2e'
-    - '#c7a288'
+    - '#FFFFFF'
+    - '#9A9A9A'
+    - '#656565'
+    - '#659A03'
+    - '#CF65D8'
   rhythmicContrast: 0.1992481
 typography_spectrum: 0.04994628
 cta:
   bucket: null
   version: null
   domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+layout_spectrum: 1
 favicon: null
 name: HDR Photography
