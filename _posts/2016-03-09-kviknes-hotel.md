@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Kviknes Hotel in Balestrand Norway.
-datePublished: '2016-03-09T06:50:12.667Z'
-dateModified: '2016-03-09T06:48:54.374Z'
+datePublished: '2016-03-09T06:54:44.292Z'
+dateModified: '2016-03-09T06:50:20.222Z'
 author: []
 related: []
 app_links:
